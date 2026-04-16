@@ -30,7 +30,10 @@ nav a {
 }
 
 .page__bio img {
-    width: 15rem;
+    align-self: center;
+    width: 16rem;
+    height: auto;
+    border-radius: 1em;
 }
 
 #main {
